@@ -1,4 +1,4 @@
 # Studydeveloper
 Study to developer basic
 
-detector move on camera portatil en python
+detector move on camera portatil in python
